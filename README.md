@@ -1,6 +1,6 @@
 # Serlokas
 
-_30 group website project_
+_Practicing_
 
 This project is for educational porpuses only. Thank you for your cooperation!
 
